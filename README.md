@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anica
-- 👀 I’m interested in learning new skills
+- 👀 I’m interested in Network and Software Engineering
 - 🌱 I’m currently learning Google Cloud 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
