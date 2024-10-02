@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anica
-- 👀 I’m interested in learning new skills in Cloud 
+- 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Google Cloud 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
